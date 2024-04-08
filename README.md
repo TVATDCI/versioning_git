@@ -7,3 +7,5 @@
 #### command above is used to check the status of your repository and verify that the README.md file is now committed, which is no longer shown as modified.
 
 ###Adding More Content
+### git log
+##### is used to display the history of commits made to GIT Repository. It shows infomations such as commit msg., author, and data details for each commit! 
